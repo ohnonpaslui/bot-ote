@@ -1,0 +1,41 @@
+name: Bot papier — cycle quotidien
+
+on:
+  schedule:
+    # 22h10 UTC : apres la cloture americaine, avant la reouverture asiatique.
+    - cron: "10 22 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot-papier
+  cancel-in-progress: false
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Cycle
+        run: python bot.py
+
+      - name: Sauvegarde de l'etat
+        if: always()
+        run: |
+          git config user.name  "bot-papier"
+          git config user.email "actions@github.com"
+          git add etat.json trades.csv 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Cycle du $(date -u +%Y-%m-%d)"
+          git pull --rebase || true
+          git push || true

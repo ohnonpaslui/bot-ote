@@ -1,5 +1,5 @@
 {
-  "capital": 1000.0,
+  "capital": 988.49,
   "instruments": {
     "EURUSD=X": 61,
     "GBPUSD=X": 56,
@@ -27,7 +27,7 @@
     "AUDCHF=X": 55,
     "AUDNZD=X": 62,
     "CADCHF=X": 59,
-    "NZDCAD=X": 61,
+    "NZDCAD=X": 60,
     "NZDCHF=X": 60,
     "GC=F": 60,
     "SI=F": 48,
@@ -57,16 +57,16 @@
     "ZB=F": 58,
     "ZF=F": 48,
     "ZT=F": 36,
-    "BTC-USD": 32,
+    "BTC-USD": 33,
     "ETH-USD": 18,
-    "SOL-USD": 19,
+    "SOL-USD": 20,
     "XRP-USD": 34,
     "ADA-USD": 27,
     "DOGE-USD": 24,
     "BNB-USD": 21,
     "LTC-USD": 54
   },
-  "clos": 0,
+  "clos": 2,
   "gagnants": 0,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }

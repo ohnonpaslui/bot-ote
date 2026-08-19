@@ -1,0 +1,3 @@
+date,instrument,r_brut,r_net,ratio_vise,stop_bps,frais_bps,duree_barres,issue,gain_eur,capital
+2026-08-19 22:36,BTC-USD,-0.473,-0.491,1.62,549.7,10.0,45,sl,-4.91,995.09
+2026-08-19 22:36,SOL-USD,-0.639,-0.663,1.62,405.5,10.0,11,sl,-6.6,988.49

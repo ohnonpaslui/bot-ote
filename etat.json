@@ -1,5 +1,5 @@
 {
-  "capital": 1037.8,
+  "capital": 1062.55,
   "instruments": {
     "EURUSD=X": 61,
     "GBPUSD=X": 56,
@@ -34,7 +34,7 @@
     "HG=F": 57,
     "PL=F": 42,
     "PA=F": 40,
-    "CL=F": 62,
+    "CL=F": 63,
     "NG=F": 55,
     "HO=F": 47,
     "RB=F": 48,
@@ -44,7 +44,7 @@
     "YM=F": 62,
     "RTY=F": 18,
     "ZC=F": 54,
-    "ZS=F": 52,
+    "ZS=F": 51,
     "ZW=F": 69,
     "ZL=F": 41,
     "ZM=F": 49,
@@ -54,7 +54,7 @@
     "CC=F": 48,
     "OJ=F": 61,
     "ZN=F": 63,
-    "ZB=F": 58,
+    "ZB=F": 59,
     "ZF=F": 49,
     "ZT=F": 36,
     "BTC-USD": 33,
@@ -66,7 +66,7 @@
     "BNB-USD": 21,
     "LTC-USD": 54
   },
-  "clos": 6,
-  "gagnants": 3,
+  "clos": 8,
+  "gagnants": 5,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }

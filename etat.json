@@ -1,5 +1,5 @@
 {
-  "capital": 1184.62,
+  "capital": 1179.6,
   "instruments": {
     "EURUSD=X": 62,
     "GBPUSD=X": 56,
@@ -32,7 +32,7 @@
     "GC=F": 63,
     "SI=F": 48,
     "HG=F": 57,
-    "PL=F": 42,
+    "PL=F": 41,
     "PA=F": 40,
     "CL=F": 63,
     "NG=F": 55,
@@ -61,12 +61,12 @@
     "ETH-USD": 18,
     "SOL-USD": 20,
     "XRP-USD": 34,
-    "ADA-USD": 27,
+    "ADA-USD": 28,
     "DOGE-USD": 24,
     "BNB-USD": 21,
     "LTC-USD": 54
   },
-  "clos": 24,
+  "clos": 25,
   "gagnants": 14,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }

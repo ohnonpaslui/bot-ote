@@ -1,5 +1,5 @@
 {
-  "capital": 1167.76,
+  "capital": 1218.47,
   "instruments": {
     "EURUSD=X": 62,
     "GBPUSD=X": 56,
@@ -29,7 +29,7 @@
     "CADCHF=X": 59,
     "NZDCAD=X": 61,
     "NZDCHF=X": 60,
-    "GC=F": 63,
+    "GC=F": 64,
     "SI=F": 48,
     "HG=F": 57,
     "PL=F": 41,
@@ -40,7 +40,7 @@
     "RB=F": 48,
     "BZ=F": 39,
     "ES=F": 45,
-    "NQ=F": 58,
+    "NQ=F": 59,
     "YM=F": 62,
     "RTY=F": 18,
     "ZC=F": 54,
@@ -60,13 +60,13 @@
     "BTC-USD": 33,
     "ETH-USD": 18,
     "SOL-USD": 20,
-    "XRP-USD": 34,
+    "XRP-USD": 35,
     "ADA-USD": 28,
     "DOGE-USD": 24,
     "BNB-USD": 21,
-    "LTC-USD": 54
+    "LTC-USD": 55
   },
-  "clos": 26,
-  "gagnants": 14,
+  "clos": 30,
+  "gagnants": 17,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }

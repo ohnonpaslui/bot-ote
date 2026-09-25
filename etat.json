@@ -1,5 +1,5 @@
 {
-  "capital": 1216.26,
+  "capital": 1235.62,
   "instruments": {
     "EURUSD=X": 62,
     "GBPUSD=X": 56,
@@ -8,7 +8,7 @@
     "AUDUSD=X": 54,
     "NZDUSD=X": 49,
     "USDCAD=X": 57,
-    "EURGBP=X": 70,
+    "EURGBP=X": 71,
     "EURJPY=X": 58,
     "GBPJPY=X": 61,
     "EURCHF=X": 66,
@@ -66,7 +66,7 @@
     "BNB-USD": 21,
     "LTC-USD": 55
   },
-  "clos": 32,
-  "gagnants": 18,
+  "clos": 33,
+  "gagnants": 19,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }

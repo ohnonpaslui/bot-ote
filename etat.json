@@ -1,5 +1,5 @@
 {
-  "capital": 1253.2,
+  "capital": 1251.18,
   "instruments": {
     "EURUSD=X": 62,
     "GBPUSD=X": 56,
@@ -26,7 +26,7 @@
     "AUDCAD=X": 66,
     "AUDCHF=X": 55,
     "AUDNZD=X": 63,
-    "CADCHF=X": 59,
+    "CADCHF=X": 60,
     "NZDCAD=X": 61,
     "NZDCHF=X": 60,
     "GC=F": 63,
@@ -35,11 +35,11 @@
     "PL=F": 42,
     "PA=F": 40,
     "CL=F": 64,
-    "NG=F": 55,
+    "NG=F": 56,
     "HO=F": 47,
     "RB=F": 48,
     "BZ=F": 39,
-    "ES=F": 45,
+    "ES=F": 46,
     "NQ=F": 58,
     "YM=F": 62,
     "RTY=F": 18,
@@ -66,7 +66,7 @@
     "BNB-USD": 21,
     "LTC-USD": 55
   },
-  "clos": 42,
-  "gagnants": 23,
+  "clos": 45,
+  "gagnants": 24,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }

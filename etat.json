@@ -1,5 +1,5 @@
 {
-  "capital": 1271.01,
+  "capital": 1258.25,
   "instruments": {
     "EURUSD=X": 62,
     "GBPUSD=X": 56,
@@ -54,7 +54,7 @@
     "CC=F": 50,
     "OJ=F": 62,
     "ZN=F": 63,
-    "ZB=F": 58,
+    "ZB=F": 59,
     "ZF=F": 49,
     "ZT=F": 36,
     "BTC-USD": 34,
@@ -66,7 +66,7 @@
     "BNB-USD": 21,
     "LTC-USD": 55
   },
-  "clos": 46,
+  "clos": 47,
   "gagnants": 25,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }

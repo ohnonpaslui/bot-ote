@@ -1,5 +1,5 @@
 {
-  "capital": 1279.76,
+  "capital": 1266.94,
   "instruments": {
     "EURUSD=X": 62,
     "GBPUSD=X": 56,
@@ -34,7 +34,7 @@
     "HG=F": 56,
     "PL=F": 42,
     "PA=F": 40,
-    "CL=F": 64,
+    "CL=F": 65,
     "NG=F": 55,
     "HO=F": 47,
     "RB=F": 48,
@@ -66,7 +66,7 @@
     "BNB-USD": 21,
     "LTC-USD": 55
   },
-  "clos": 48,
+  "clos": 49,
   "gagnants": 26,
   "demarre": "2026-08-13T10:07:57.122612+00:00"
 }
